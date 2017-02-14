@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573185918824",
+    "firebase_url": "https://healthmanagemmentuta.firebaseio.com",
+    "project_id": "healthmanagemmentuta",
+    "storage_bucket": "healthmanagemmentuta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573185918824:android:ce3022c9954786d6",
+        "android_client_info": {
+          "package_name": "com.example.nikpa.healthmanagementlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573185918824-i0vobeqvnq5ja4fcqioj1780d3kjmqsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nikpa.healthmanagementlogin",
+            "certificate_hash": "9D53DF7FDCED977718469C52D9529F7919A5AF91"
+          }
+        },
+        {
+          "client_id": "573185918824-te002c789eto5ip2r1j45qnte5iic6p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvfM2tXALaZbX9umcAVkjUwH-g3DDIWGQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573185918824-te002c789eto5ip2r1j45qnte5iic6p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
